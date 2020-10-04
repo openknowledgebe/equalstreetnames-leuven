@@ -43,7 +43,7 @@ Volmolenlaan,,Q21045580,way
 13,,,way
 14,,,way
 Aambeeldstraat,,,way
-Aarschotsesteenweg,,,relation
+Aarschotsesteenweg,,,way
 "Abdij Van Vlierbeek",,,way
 "Abdij van Park",,,relation
 Abdijdreef,,,way
@@ -155,6 +155,7 @@ Brabantlaan,,,relation
 Brampad,,,way
 Brandenstraat,,,way
 Brandweg,,,way
+"Brede Weg",,,way
 Bredeweg,,,way
 Bremstraat,,,way
 Broederlijkheidstraat,,,relation
@@ -366,6 +367,7 @@ Hommelstraat,,,way
 Honingbijstraat,,,relation
 Hoogland,,,way
 Hoogveldweg,,,way
+Hoornplein,,,way
 Horengang,,,way
 Hoveniersdreef,,,relation
 "Hugo Verriestlaan",,,way
@@ -689,6 +691,7 @@ Pioengang,,,way
 Plankenbospad,,,way
 Platte-Lostraat,,,way
 Pleinstraat,,,relation
+Ploegsteert,,,way
 Poelstraat,,,way
 "Politieke Gevangenenlaan",,,way
 Pompstraat,,,way
@@ -701,7 +704,6 @@ Prieeltjesweg,,,way
 "Prins Regentplein",,,way
 Prins-Regentlaan,,,way
 Prins-Regentplein,,,way
-"Prinses Lydialaan",,,way
 Prinsstraat,,,way
 Priorijlaan,,,way
 Privaatweg,,,way
@@ -715,6 +717,7 @@ Puttebosstraat,,,way
 Puttebroekstraat,,,way
 Puttegang,,,way
 Raadhuislaan,,,way
+Raaigraspad,,,way
 Raalbeeklaan,,,way
 Ramberg,,,way
 Ramenstraatje,,,way
@@ -806,7 +809,6 @@ Snoekenpad,,,way
 "Spaans Kwartier",,,way
 "Spaanse Burchtlaan",,,way
 "Spaanse Lindenlaan",,,way
-Spaanse-Burchtlaan,,,way
 Spaanse-Kroonlaan,,,way
 Spaanse-Lindepad,,,way
 Spaarstraat,,,way
@@ -906,6 +908,7 @@ Varenspad,,,way
 Veeweidelaan,,,way
 Veilingweg,,,way
 Velderblok,,,way
+Veldlaan,,,way
 Veldovenweg,,,way
 Veldstraat,,,way
 Veldweg,,,way
@@ -966,6 +969,7 @@ Watermolenstraat,,,way
 Watervloedstraat,,,way
 Waversebaan,,,relation
 Weduwenrij,,,way
+Weegbreepad,,,way
 Weergalmlaan,,,way
 Weerstandlaan,,,way
 Weggevoerdenstraat,,,way
@@ -1024,6 +1028,5 @@ Zwartzustersstraat,,,way
 "buurtweg 28",,,way
 "buurtweg nr 63",,,way
 "ceremonie plein",,,way
-noname,,,way
 "t' Zijpad",,,way
 wandelstraat,,,way
