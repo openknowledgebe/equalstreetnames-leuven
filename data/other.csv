@@ -24,6 +24,7 @@ Predikherinnenstraat,,Q131479,way
 "Romeinse straat",,Q194029,way
 Savoyestraat,,Q14118,way
 Tervuursepoort,,Q456544,way
+Tomveldstraat,,Q34023,way
 Volmolenlaan,,Q21045580,way
 "'s Meiersstraat",,,way
 's-Hertogenlaan,,,way
@@ -398,6 +399,7 @@ Janseniusstraat,,,way
 "Jean Baptist Vanderelststraat",,,way
 "Jean Bulenswijk",,,way
 "Jean-Baptiste Ectorsstraat",,,relation
+"Jeanne Dormaelsplein",,,way
 "Jef Scherensstraat",,,way
 "Jef Van Hooflaan",,,relation
 "Jef Vanden Eyndelaan",,,relation
@@ -438,7 +440,7 @@ Kastanjelaan,,,relation
 Katjeswilgenlaan,,,way
 Keibergstraat,,,relation
 Keizersberg,,,way
-Kerkhofdreef,,,relation
+Kerkhofdreef,,,way
 Kerkstraat,,,way
 Kerselarenstraat,,,way
 Kerspelstraat,,,way
@@ -690,7 +692,7 @@ Pikkelstraat,,,way
 Pioengang,,,way
 Plankenbospad,,,way
 Platte-Lostraat,,,way
-Pleinstraat,,,relation
+Pleinstraat,,,way
 Ploegsteert,,,way
 Poelstraat,,,way
 "Politieke Gevangenenlaan",,,way
@@ -873,7 +875,6 @@ Tivolistraat,,,way
 Toekomstpad,,,way
 Toekomststraat,,,way
 Tolhuizenstraat,,,way
-Tomveldstraat,,,relation
 Torenstraat,,,way
 Toverberg,,,way
 Tramweg,,,way
