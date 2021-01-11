@@ -198,7 +198,7 @@ Daneelsgang,,,way
 "De Angelispad",,,way
 "De Hoorn",,,way
 "De Roestestraat",,,way
-Dekenstraat,,,relation
+Dekenstraat,,,way
 Dellenhof,,,way
 "Den Boschsingel",,,way
 "Den Tempst",,,way
@@ -284,7 +284,7 @@ Gasthuisbosstraat,,,way
 "Gaston Feremanslaan",,,relation
 "Gebroeders Tassetstraat",,,way
 Geldenaaksebaan,,,relation
-Geldenaaksevest,,,relation
+Geldenaaksevest,,,way
 Gelijkheidsstraat,,,way
 Gemeenteplein,,,way
 Gemeentestraat,,,way
@@ -643,7 +643,6 @@ Oudstrijderslaan,,,way
 Overlo,,,relation
 Overloopstraat,,,way
 Overwinningstraat,,,way
-"P.J. Verhaghenstraat",,,way
 Paardenweg,,,way
 Pachthof,,,way
 Pakenstraat,,,way
@@ -685,6 +684,7 @@ Petrusberg,,,way
 Philipslaan,,,way
 Philipsplein,,,way
 "Pierre Joseph Van Benedenstraat",,,way
+"Pierre Joseph Verhaghenstraat",,,way
 "Pieter Nollekensstraat",,,way
 "Pieter Paradaenslaan",,,way
 "Pieter Van Dalepad",,,way
