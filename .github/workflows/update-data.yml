@@ -65,7 +65,7 @@ jobs:
           directory: cities/belgium/leuven
           repository: EqualStreetNames/equalstreetnames-leuven
 
-      - name: Commit repository
+      - name: Commit main repository
         if: ${{ github.event_name != 'pull_request' }}
         run: |
           git config user.name github-actions[bot]
@@ -73,7 +73,7 @@ jobs:
           git pull
           git add cities/belgium/leuven
           git commit -m "🗃 Update Leuven sub-module"
-      - name: Push to repository
+      - name: Push to main repository
         uses: ad-m/github-push-action@master
         if: ${{ github.event_name != 'pull_request' }}
         with:
