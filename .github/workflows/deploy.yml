@@ -1,25 +1,31 @@
-
-name: Deploy Leuven
+name: Deploy
 
 on:
   push:
+    branches: [master]
     paths:
-      - 'cities/leuven'
+      - ".github/workflows/deploy.yml"
+  workflow_run:
+    branches: [master]
+    workflows: ["Update data"]
+    types:
+      - completed
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v2
         with:
+          repository: EqualStreetNames/equalstreetnames
           persist-credentials: false
           submodules: true
 
       - name: Install and Build
         run: |
           npm install
-          npm run build:leuven
+          npm run build:belgium:leuven
         env:
           MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
 
@@ -27,7 +33,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@3.6.2
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          REPOSITORY_NAME: openknowledgebe/equalstreetnames-leuven
+          REPOSITORY_NAME: EqualStreetNames/equalstreetnames-leuven
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: 'dist/leuven' # The folder the action should deploy.
+          FOLDER: 'dist/belgium/leuven' # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
