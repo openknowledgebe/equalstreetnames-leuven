@@ -66,7 +66,6 @@ Alaudastraat,,,relation
 Albrechtplein,,,relation
 "Alfons Fierensstraat",,,way
 "Alfons Roelandtsstraat",,,way
-"Alfons Smetsplein",,,relation
 "Alfons Stesselstraat",,,way
 "Alfons Van Geelstraat",,,way
 "Alfons Verbovenstraat",,,way
@@ -80,7 +79,6 @@ Ankerstraat,,,way
 Apothekerspad,,,way
 Arendstraat,,,way
 "Armand Meyswijk",,,way
-"Arthur De Greefstraat",,,way
 "Arthur Meulemanslaan",,,way
 Asstraat,,,way
 Atalantastraat,,,way
@@ -250,7 +248,6 @@ Eksterveldstraat,,,way
 Elfpad,,,way
 Elzasgang,,,relation
 "Emiel Vlieberghlaan",,,way
-"Emile Mathieustraat",,,way
 "Emile Van Arenberghstraat",,,way
 "Engels Plein",,,way
 "Englebert Carleerlaan",,,way
@@ -730,7 +727,7 @@ Rapengang,,,way
 Rattemanspoort,,,way
 Ravenstraat,,,way
 Rechtestraat,,,way
-"Rector De Somerplein",,,relation
+"Rector De Somerplein",,,way
 Redersstraat,,,way
 Redingenhof,,,way
 Redingenstraat,,,way
