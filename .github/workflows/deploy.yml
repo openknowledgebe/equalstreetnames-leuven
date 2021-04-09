@@ -9,6 +9,10 @@ on:
     types:
       - completed
 
+defaults:
+  run:
+    working-directory: website
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
