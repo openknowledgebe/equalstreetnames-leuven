@@ -1,71 +1,71 @@
 name,gender,wikidata,type
-"Hortense Damanhof",F,Q5906692,way
-"Koningin Astridlaan",F,Q230238,way
-"Koningin Elisabethlaan",F,Q235186,way
-"Koningin Fabiolaweg",F,Q231171,way
-"Marie Popelinlaan",F,Q2627259,way
-"Prinses Lydialaan",F,Q75394447,way
-Sint-Beggaberg,F,Q266765,way
-Sint-Reneldislaan,F,Q463631,way
-Sint-Reneldisplein,F,Q463631,way
-"Albert Giraudstraat",M,Q972661,way
-"Alfons Smetsplein",M,Q1883809,relation
-"Andreas Vesaliusstraat",M,Q170267,way
-"Armand Thiérylaan",M,Q677843,way
-"Arnould Nobelstraat",M,Q1976832,way
-"Arthur De Greefstraat",M,Q671682,way
-"Arthur Meulemanslaan",M,Q709355,relation
-"Charles Deberiotstraat",M,Q385217,relation
-"Constantin Meunierstraat",M,Q552440,relation
-Delaunoislaan,M,Q4420662,way
-"Edward Van Evenstraat",M,Q13575404,way
-"Emiel Hullebroecklaan",M,Q2316962,relation
-"Emile Mathieustraat",M,Q2062068,way
-"Erasme Ruelensvest",M,Q87120607,way
-"Eugène Gilbertstraat",M,Q28912755,way
-"Ferdinand Smoldersplein",M,Q20827860,way
-"Frans Cnopslaan",M,Q87175364,way
-"Franz Tielemanslaan",M,Q2090333,way
-"Frederik Lintsstraat",M,Q2345026,way
-"Gaston Geenslaan",M,Q15990,way
-"Gerard Vander Lindenstraat",M,Q21396115,way
-"Guido Gezellelaan",M,Q336977,way
-"Hendrik Consciencestraat",M,Q378133,way
-"Henri Regastraat",M,Q31820933,way
-"Herbert Hooverplein",M,Q35236,relation
-"Jan Cobbaertplein",M,Q693536,way
-"Jan Stasstraat",M,Q560706,way
-"Jan-Pieter Minckelersstraat",M,Q910247,way
-"Jean-Baptiste Van Monsstraat",M,Q445843,way
-"Jules Vandenbemptlaan",M,Q87116664,way
-"Justus Lipsiusstraat",M,Q315871,relation
-"Kardinaal Mercierlaan",M,Q468097,relation
-"Kardinaal Mercierplein",M,Q468097,way
-"Karel van Lotharingenstraat",M,Q158232,way
-"Koning Boudewijnlaan",M,Q12976,way
-"Koning Leopold I-straat",M,Q12971,way
-"Koning Leopold III-laan",M,Q12973,way
-Lemmensberg,M,Q712718,way
-"Leo Dartelaan",M,Q87099004,way
-"Léon Schreursvest",M,Q2207177,way
-"Leopold Vanderkelenstraat",M,Q2467441,way
-"Lodewijk Engelbertus Van Arenbergplein",M,Q537073,way
-"Louis Melsensstraat",M,Q2691744,way
-"Monseigneur Ladeuzeplein",M,Q966218,way
-"Pater Damiaanplein",M,Q232785,relation
-"Paul Lebrunstraat",M,Q7151987,way
-"Paul van Ostaijenlaan",M,Q739190,relation
-"Pieter Coutereelstraat",M,Q2094242,way
-"Pieter De Somerlaan",M,Q352379,way
-"Prosper Poulletlaan",M,Q14993,way
-"Prosper Vanlangendoncklaan",M,Q336977,way
-"Quinten Metsysplein",M,Q314275,way
-"Raoul Claesstraat",M,Q2215585,way
-"Rector De Somerplein",M,Q352379,relation
-"Remi Vandervaerenlaan",M,Q2632274,way
-"Renaat Veremanslaan",M,Q2248946,relation
-"Romain Rollandstraat",M,Q47162,way
-Sint-Lambertusstraat,M,Q283447,way
-"Stijn Streuvelslaan",M,Q175669,way
-"Vital Decosterstraat",M,Q2605772,way
-"Willem de Croylaan",M,Q698123,way
+"Hortense Damanhof",wikidata,F,Q5906692,way
+"Koningin Astridlaan",wikidata,F,Q230238,way
+"Koningin Elisabethlaan",wikidata,F,Q235186,way
+"Koningin Fabiolaweg",wikidata,F,Q231171,way
+"Marie Popelinlaan",wikidata,F,Q2627259,way
+"Prinses Lydialaan",wikidata,F,Q75394447,way
+Sint-Beggaberg,wikidata,F,Q266765,way
+Sint-Reneldislaan,wikidata,F,Q463631,way
+Sint-Reneldisplein,wikidata,F,Q463631,way
+"Albert Giraudstraat",wikidata,M,Q972661,way
+"Alfons Smetsplein",wikidata,M,Q1883809,relation
+"Andreas Vesaliusstraat",wikidata,M,Q170267,way
+"Armand Thiérylaan",wikidata,M,Q677843,way
+"Arnould Nobelstraat",wikidata,M,Q1976832,way
+"Arthur De Greefstraat",wikidata,M,Q671682,way
+"Arthur Meulemanslaan",wikidata,M,Q709355,relation
+"Charles Deberiotstraat",wikidata,M,Q385217,relation
+"Constantin Meunierstraat",wikidata,M,Q552440,relation
+Delaunoislaan,wikidata,M,Q4420662,way
+"Edward Van Evenstraat",wikidata,M,Q13575404,way
+"Emiel Hullebroecklaan",wikidata,M,Q2316962,relation
+"Emile Mathieustraat",wikidata,M,Q2062068,way
+"Erasme Ruelensvest",wikidata,M,Q87120607,way
+"Eugène Gilbertstraat",wikidata,M,Q28912755,way
+"Ferdinand Smoldersplein",wikidata,M,Q20827860,way
+"Frans Cnopslaan",wikidata,M,Q87175364,way
+"Franz Tielemanslaan",wikidata,M,Q2090333,way
+"Frederik Lintsstraat",wikidata,M,Q2345026,way
+"Gaston Geenslaan",wikidata,M,Q15990,way
+"Gerard Vander Lindenstraat",wikidata,M,Q21396115,way
+"Guido Gezellelaan",wikidata,M,Q336977,way
+"Hendrik Consciencestraat",wikidata,M,Q378133,way
+"Henri Regastraat",wikidata,M,Q31820933,way
+"Herbert Hooverplein",wikidata,M,Q35236,relation
+"Jan Cobbaertplein",wikidata,M,Q693536,way
+"Jan Stasstraat",wikidata,M,Q560706,way
+"Jan-Pieter Minckelersstraat",wikidata,M,Q910247,way
+"Jean-Baptiste Van Monsstraat",wikidata,M,Q445843,way
+"Jules Vandenbemptlaan",wikidata,M,Q87116664,way
+"Justus Lipsiusstraat",wikidata,M,Q315871,relation
+"Kardinaal Mercierlaan",wikidata,M,Q468097,relation
+"Kardinaal Mercierplein",wikidata,M,Q468097,way
+"Karel van Lotharingenstraat",wikidata,M,Q158232,way
+"Koning Boudewijnlaan",wikidata,M,Q12976,way
+"Koning Leopold I-straat",wikidata,M,Q12971,way
+"Koning Leopold III-laan",wikidata,M,Q12973,way
+Lemmensberg,wikidata,M,Q712718,way
+"Leo Dartelaan",wikidata,M,Q87099004,way
+"Léon Schreursvest",wikidata,M,Q2207177,way
+"Leopold Vanderkelenstraat",wikidata,M,Q2467441,way
+"Lodewijk Engelbertus Van Arenbergplein",wikidata,M,Q537073,way
+"Louis Melsensstraat",wikidata,M,Q2691744,way
+"Monseigneur Ladeuzeplein",wikidata,M,Q966218,way
+"Pater Damiaanplein",wikidata,M,Q232785,relation
+"Paul Lebrunstraat",wikidata,M,Q7151987,way
+"Paul van Ostaijenlaan",wikidata,M,Q739190,relation
+"Pieter Coutereelstraat",wikidata,M,Q2094242,way
+"Pieter De Somerlaan",wikidata,M,Q352379,way
+"Prosper Poulletlaan",wikidata,M,Q14993,way
+"Prosper Vanlangendoncklaan",wikidata,M,Q336977,way
+"Quinten Metsysplein",wikidata,M,Q314275,way
+"Raoul Claesstraat",wikidata,M,Q2215585,way
+"Rector De Somerplein",wikidata,M,Q352379,relation
+"Remi Vandervaerenlaan",wikidata,M,Q2632274,way
+"Renaat Veremanslaan",wikidata,M,Q2248946,relation
+"Romain Rollandstraat",wikidata,M,Q47162,way
+Sint-Lambertusstraat,wikidata,M,Q283447,way
+"Stijn Streuvelslaan",wikidata,M,Q175669,way
+"Vital Decosterstraat",wikidata,M,Q2605772,way
+"Willem de Croylaan",wikidata,M,Q698123,way
