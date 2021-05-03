@@ -11,6 +11,7 @@ Leuvensestraat,wikidata,,Q118958,way
 Minderbroedersstraat,wikidata,,Q165005,relation
 Naamsepoort,wikidata,,Q134121,way
 Naamsesteenweg,wikidata,,Q134121,relation
+Naamsestraat,wikidata,,Q134121,relation
 Naamsevest,wikidata,,Q134121,way
 Nerviërsstraat,wikidata,,Q756812,way
 "Oude Diestsesteenweg",wikidata,,Q743236,way
@@ -24,6 +25,8 @@ Predikherinnenstraat,wikidata,,Q131479,way
 "Romeinse straat",wikidata,,Q194029,way
 Savoyestraat,wikidata,,Q14118,way
 Tervuursepoort,wikidata,,Q456544,way
+Tervuursesteenweg,wikidata,,Q456544,relation
+Tiensesteenweg,wikidata,,Q456550,relation
 Tomveldstraat,wikidata,,Q34023,way
 Volmolenlaan,wikidata,,Q21045580,way
 "'s Meiersstraat",,,,way
@@ -74,12 +77,10 @@ Ambachtenlaan,,,,way
 Amerikalaan,,,,way
 "André Emondstraat",,,,way
 Ankerstraat,,,,way
-"Antonia van Roesmaelelaan",,,,relation
 "Antonius Rodolphestraat",,,,way
 Apothekerspad,,,,way
 Arendstraat,,,,way
 "Armand Meyswijk",,,,way
-"Arthur Meulemanslaan",,,,way
 Asstraat,,,,way
 Atalantastraat,,,,way
 Atelierstraat,,,,relation
@@ -114,7 +115,6 @@ Bermpad,,,,way
 Bermstraat,,,,way
 Bertempad,,,,way
 Bertemstraat,,,,way
-"Berthe Gottignystraat",,,,relation
 Beukenlaan,,,,relation
 Beursgang,,,,way
 Beverloopad,,,,way
@@ -188,7 +188,6 @@ Compostweg,,,,way
 Crabeelsweg,,,,way
 Craenendonck,,,,way
 Cristianlaan,,,,way
-Dagobertstraat,,,,relation
 Dalemhof,,,,way
 Damendreef,,,,way
 "Damendreef / Vinkenbosstraat",,,,way
@@ -251,12 +250,10 @@ Elzasgang,,,,relation
 "Emile Van Arenberghstraat",,,,way
 "Engels Plein",,,,way
 "Englebert Carleerlaan",,,,way
-"Erasme Ruelenspark",,,,relation
 "Ernest Solvaystraat",,,,way
 Escoriallaan,,,,relation
 Esplanadelaan,,,,way
 "Eugeen Vanhoorenbekelaan",,,,way
-"Eugène Gilbertstraat",,,,way
 Evenementenlaan,,,,relation
 Expresweg,,,,way
 "Familie De Bayostraat",,,,way
@@ -318,6 +315,7 @@ Groeningestraat,,,,way
 Groenstraat,,,,relation
 Groenveldstraat,,,,way
 "Groot Begijnhof",,,,relation
+"Groot Begijnhof Benedenstraat",,,,way
 "Grote Markt",,,,way
 Guldensporenlaan,,,,way
 H81,,,,way
@@ -390,7 +388,6 @@ Isabellaplein,,,,relation
 Jaartallenpad,,,,way
 Jachthoornstraat,,,,way
 Jachtlaan,,,,way
-"Jan Cobbaertplein",,,,way
 "Jan Davidtsstraat",,,,way
 "Jan Van Avondtstraat",,,,way
 "Jan Van Bouwelstraat",,,,way
@@ -415,7 +412,6 @@ Jodenstraat,,,,way
 "Jos De Haeslaan",,,,relation
 "Joseph Ravoetstraat",,,,way
 "Jozef Deveusterlaan",,,,way
-"Jozef Eerdekensstraat",,,,relation
 "Jozef II-straat",,,,way
 "Jozef Pierrestraat",,,,way
 "Jozef Wautersstraat",,,,way
@@ -522,9 +518,7 @@ Leeuwerikenstraat,,,,way
 Lei,,,,way
 Leibeekstraat,,,,way
 Leming,,,,way
-Lemmensberg,,,,relation
 Lentedreef,,,,way
-"Leo Dartelaan",,,,way
 "Léon Colinslaan",,,,relation
 "Leopold Beosierlaan",,,,way
 "Leopold Decouxlaan",,,,way
@@ -604,7 +598,6 @@ Muntstraat,,,,way
 Musbergpad,,,,relation
 Mussenstraat,,,,way
 Muurkruidstraat,,,,way
-Naamsestraat,,,,relation
 Nachtegalenstraat,,,,way
 Natuurvriendenlaan,,,,way
 Negenbunderspad,,,,way
@@ -663,7 +656,6 @@ Pasteelsblokweg,,,,way
 "Pastoor Legrandstraat",,,,way
 Pastorijweg,,,,way
 Paswerkerij,,,,way
-"Pater Damiaanplein",,,,way
 "Pater Lievenslaan",,,,way
 "Pater Perquylaan",,,,way
 Pater-Damiaanpad,,,,way
@@ -713,7 +705,6 @@ Priorijlaan,,,,way
 Privaatweg,,,,way
 Processiestraat,,,,way
 "Professor Jozef Vounckplein",,,,way
-"Professor Roger Van Overstraetenplein",,,,relation
 Prosperdreef,,,,way
 Provincie-esplanade,,,,way
 Provincieplein,,,,way
@@ -729,7 +720,6 @@ Rapengang,,,,way
 Rattemanspoort,,,,way
 Ravenstraat,,,,way
 Rechtestraat,,,,way
-"Rector De Somerplein",,,,way
 Redersstraat,,,,way
 Redingenhof,,,,way
 Redingenstraat,,,,way
@@ -832,7 +822,6 @@ Sprinkhanenpad,,,,way
 Stadionlaan,,,,way
 Stadsvest,,,,way
 Standonckstraat,,,,way
-"Stanislas De Rijcklaan",,,,relation
 Stapelhuisplein,,,,way
 Stapelhuisstraat,,,,way
 Statiepad,,,,way
@@ -864,14 +853,12 @@ Technologielaan,,,,way
 Terbankstraat,,,,way
 Termunckdreef,,,,way
 Termunckstraat,,,,way
-Tervuursesteenweg,,,,relation
 Tervuursestraat,,,,way
 Tervuursevest,,,,relation
 "Tessenstraat - Fonteinstraat",,,,way
 Theresianengang,,,,relation
 "Thomas Woodrow Wilsonlaan",,,,way
 Tiensepoort,,,,way
-Tiensesteenweg,,,,relation
 Tiensestraat,,,,way
 Tiensevest,,,,relation
 Tiggelpad,,,,way
@@ -998,7 +985,6 @@ Wilgenhof,,,,relation
 "Willem Coosemansstraat",,,,way
 "Willem Quarrélaan",,,,way
 "Willem Vanden Abeelelaan",,,,way
-"Willem de Croylaan",,,,way
 Willemsstraat,,,,way
 Wilselsesteenweg,,,,relation
 Wimmershof,,,,way
