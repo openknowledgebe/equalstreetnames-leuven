@@ -1,6 +1,4 @@
 name,source,gender,wikidata,type
-"Antonia van Roesmaelelaan",wikidata,F,Q87136364,relation
-"Berthe Gottignystraat",wikidata,F,Q87176206,relation
 "Hortense Damanhof",wikidata,F,Q5906692,way
 "Koningin Astridlaan",wikidata,F,Q230238,way
 "Koningin Elisabethlaan",wikidata,F,Q235186,way
@@ -19,12 +17,10 @@ Sint-Reneldisplein,wikidata,F,Q463631,way
 "Arthur Meulemanslaan",wikidata,M,Q709355,relation
 "Charles Deberiotstraat",wikidata,M,Q385217,relation
 "Constantin Meunierstraat",wikidata,M,Q552440,relation
-Dagobertstraat,wikidata,M,Q316874,relation
 Delaunoislaan,wikidata,M,Q4420662,way
 "Edward Van Evenstraat",wikidata,M,Q13575404,way
 "Emiel Hullebroecklaan",wikidata,M,Q2316962,relation
 "Emile Mathieustraat",wikidata,M,Q2062068,way
-"Erasme Ruelenspark",wikidata,M,Q87120607,relation
 "Erasme Ruelensvest",wikidata,M,Q87120607,way
 "Eugène Gilbertstraat",wikidata,M,Q28912755,way
 "Ferdinand Smoldersplein",wikidata,M,Q20827860,way
@@ -41,7 +37,6 @@ Delaunoislaan,wikidata,M,Q4420662,way
 "Jan Stasstraat",wikidata,M,Q560706,way
 "Jan-Pieter Minckelersstraat",wikidata,M,Q910247,way
 "Jean-Baptiste Van Monsstraat",wikidata,M,Q445843,way
-"Jozef Eerdekensstraat",wikidata,M,Q87074582,relation
 "Jules Vandenbemptlaan",wikidata,M,Q87116664,way
 "Justus Lipsiusstraat",wikidata,M,Q315871,relation
 "Kardinaal Mercierlaan",wikidata,M,Q468097,relation
@@ -62,7 +57,6 @@ Lemmensberg,wikidata,M,Q712718,relation
 "Paul van Ostaijenlaan",wikidata,M,Q739190,relation
 "Pieter Coutereelstraat",wikidata,M,Q2094242,way
 "Pieter De Somerlaan",wikidata,M,Q352379,way
-"Professor Roger Van Overstraetenplein",wikidata,M,Q2167354,relation
 "Prosper Poulletlaan",wikidata,M,Q14993,way
 "Prosper Vanlangendoncklaan",wikidata,M,Q336977,way
 "Quinten Metsysplein",wikidata,M,Q314275,way
@@ -72,7 +66,6 @@ Lemmensberg,wikidata,M,Q712718,relation
 "Renaat Veremanslaan",wikidata,M,Q2248946,relation
 "Romain Rollandstraat",wikidata,M,Q47162,way
 Sint-Lambertusstraat,wikidata,M,Q283447,way
-"Stanislas De Rijcklaan",wikidata,M,Q15882291,relation
 "Stijn Streuvelslaan",wikidata,M,Q175669,way
 "Vital Decosterstraat",wikidata,M,Q2605772,way
 "Willem de Croylaan",wikidata,M,Q698123,way
