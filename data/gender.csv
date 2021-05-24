@@ -16,8 +16,8 @@ Sint-Reneldisplein,wikidata,F,Q463631,way
 "Armand Thiérylaan",wikidata,M,Q677843,way
 "Arnould Nobelstraat",wikidata,M,Q1976832,way
 "Arthur De Greefstraat",wikidata,M,Q671682,way
-"Arthur Meulemanslaan",wikidata,M,Q709355,relation
-"Charles Deberiotstraat",wikidata,M,Q385217,relation
+"Arthur Meulemanslaan",wikidata,M,Q709355,relation+way
+"Charles Deberiotstraat",wikidata,M,Q385217,relation+way
 "Constantin Meunierstraat",wikidata,M,Q552440,relation
 Dagobertstraat,wikidata,M,Q316874,relation
 Delaunoislaan,wikidata,M,Q4420662,way
@@ -36,7 +36,7 @@ Delaunoislaan,wikidata,M,Q4420662,way
 "Guido Gezellelaan",wikidata,M,Q336977,way
 "Hendrik Consciencestraat",wikidata,M,Q378133,way
 "Henri Regastraat",wikidata,M,Q31820933,way
-"Herbert Hooverplein",wikidata,M,Q35236,relation
+"Herbert Hooverplein",wikidata,M,Q35236,relation+way
 "Jan Cobbaertplein",wikidata,M,Q693536,way
 "Jan Stasstraat",wikidata,M,Q560706,way
 "Jan-Pieter Minckelersstraat",wikidata,M,Q910247,way
@@ -50,24 +50,24 @@ Delaunoislaan,wikidata,M,Q4420662,way
 "Koning Boudewijnlaan",wikidata,M,Q12976,way
 "Koning Leopold I-straat",wikidata,M,Q12971,way
 "Koning Leopold III-laan",wikidata,M,Q12973,way
-Lemmensberg,wikidata,M,Q712718,relation
+Lemmensberg,wikidata,M,Q712718,relation+way
 "Leo Dartelaan",wikidata,M,Q87099004,way
 "Léon Schreursvest",wikidata,M,Q2207177,way
 "Leopold Vanderkelenstraat",wikidata,M,Q2467441,way
 "Lodewijk Engelbertus Van Arenbergplein",wikidata,M,Q537073,way
 "Louis Melsensstraat",wikidata,M,Q2691744,way
 "Monseigneur Ladeuzeplein",wikidata,M,Q966218,way
-"Pater Damiaanplein",wikidata,M,Q232785,relation
+"Pater Damiaanplein",wikidata,M,Q232785,relation+way
 "Paul Lebrunstraat",wikidata,M,Q7151987,way
 "Paul van Ostaijenlaan",wikidata,M,Q739190,relation
 "Pieter Coutereelstraat",wikidata,M,Q2094242,way
 "Pieter De Somerlaan",wikidata,M,Q352379,way
-"Professor Roger Van Overstraetenplein",wikidata,M,Q2167354,relation
+"Professor Roger Van Overstraetenplein",wikidata,M,Q2167354,relation+way
 "Prosper Poulletlaan",wikidata,M,Q14993,way
 "Prosper Vanlangendoncklaan",wikidata,M,Q336977,way
 "Quinten Metsysplein",wikidata,M,Q314275,way
 "Raoul Claesstraat",wikidata,M,Q2215585,way
-"Rector De Somerplein",wikidata,M,Q352379,relation
+"Rector De Somerplein",wikidata,M,Q352379,relation+way
 "Remi Vandervaerenlaan",wikidata,M,Q2632274,way
 "Renaat Veremanslaan",wikidata,M,Q2248946,relation
 "Romain Rollandstraat",wikidata,M,Q47162,way
