@@ -1,4 +1,35 @@
 name,source,gender,wikidata,type
+Bondgenotenlaan,wikidata,,Q215669,way
+Burgemeestersstraat,wikidata,,Q30185,way
+Celestijnenlaan,wikidata,,Q1093546,relation+way
+Diestsepoort,wikidata,,Q743236,way
+Diestsesteenweg,wikidata,,Q743236,way
+Diestsestraat,wikidata,,Q743236,way
+Diestsevest,wikidata,,Q743236,way
+Esperantolaan,wikidata,,Q143,relation
+Lepelstraat,wikidata,,Q743236,way
+Leuvensestraat,wikidata,,Q118958,way
+Minderbroedersstraat,wikidata,,Q165005,relation+way
+Naamsepoort,wikidata,,Q134121,way
+Naamsesteenweg,wikidata,,Q134121,relation+way
+Naamsestraat,wikidata,,Q134121,relation+way
+Naamsevest,wikidata,,Q134121,way
+Nerviërsstraat,wikidata,,Q756812,way
+"Oude Diestsesteenweg",wikidata,,Q743236,way
+Parkpoort,wikidata,,Q476178,way
+Parkstraat,wikidata,,Q476178,way
+Philipssite,wikidata,,Q170416,relation+way
+Predikherenberg,wikidata,,Q131479,way
+Predikherenstraat,wikidata,,Q131479,way
+Predikherinnenstraat,wikidata,,Q131479,way
+"Prins De Lignestraat",wikidata,,Q3922015,way
+"Romeinse straat",wikidata,,Q194029,way
+Savoyestraat,wikidata,,Q14118,way
+Tervuursepoort,wikidata,,Q456544,way
+Tervuursesteenweg,wikidata,,Q456544,relation+way
+Tiensesteenweg,wikidata,,Q456550,relation+way
+Tomveldstraat,wikidata,,Q34023,way
+Volmolenlaan,wikidata,,Q21045580,way
 "'s Meiersstraat",,,,way
 's-Hertogenlaan,,,,way
 's-Hertogenwijngaard,,,,way
@@ -105,7 +136,6 @@ Boekhandelstraat,,,,way
 Boerenkrijglaan,,,,way
 Bogaardenstraat,,,,way
 "Boghe of Brandgang",,,,way
-Bondgenotenlaan,,,,way
 Boogschuttersstraat,,,,way
 Boomgaardstraat,,,,way
 Bornestraat,,,,way
@@ -147,7 +177,6 @@ Bunsbeekstraat,,,,way
 Bunswijkpad,,,,way
 Bunswijkstraat,,,,way
 Burchtstraat,,,,way
-Burgemeestersstraat,,,,way
 Busleidengang,,,,way
 "Buurtweg 3",,,,way
 "Buurtweg 37",,,,way
@@ -155,7 +184,6 @@ Busleidengang,,,,way
 Cardenberch,,,,way
 Casablancalaan,,,,way
 Casinolaan,,,,way
-Celestijnenlaan,,,,relation+way
 Centrumstraat,,,,way
 Collegeberg,,,,way
 Compostweg,,,,way
@@ -179,10 +207,6 @@ Dennendreef,,,,way
 Dennenlaan,,,,way
 "Desire Mellaertspad",,,,way
 "Desire Mellaertsstraat",,,,way
-Diestsepoort,,,,way
-Diestsesteenweg,,,,way
-Diestsestraat,,,,way
-Diestsevest,,,,way
 Dijkstraat,,,,way
 Dijlebrug,,,,way
 Dijledreef,,,,way
@@ -230,7 +254,6 @@ Elzasgang,,,,relation
 "Englebert Carleerlaan",,,,way
 "Ernest Solvaystraat",,,,way
 Escoriallaan,,,,relation
-Esperantolaan,,,,relation
 Esplanadelaan,,,,way
 "Eugeen Vanhoorenbekelaan",,,,way
 Evenementenlaan,,,,relation+way
@@ -499,8 +522,6 @@ Lentedreef,,,,way
 "Leopold Beosierlaan",,,,way
 "Leopold Decouxlaan",,,,way
 "Leopold Ruelensstraat",,,,way
-Lepelstraat,,,,way
-Leuvensestraat,,,,way
 Leuvenstraat,,,,way
 Libelpad,,,,way
 Liemingenstraat,,,,way
@@ -561,7 +582,6 @@ Middelweg,,,,way
 Middenstraat,,,,way
 Mijlboomweg,,,,way
 Milseweg,,,,relation
-Minderbroedersstraat,,,,relation+way
 Minneveld,,,,way
 Molenbeekpad,,,,way
 Molenstraat,,,,way
@@ -576,15 +596,10 @@ Muntstraat,,,,way
 Musbergpad,,,,relation
 Mussenstraat,,,,way
 Muurkruidstraat,,,,way
-Naamsepoort,,,,way
-Naamsesteenweg,,,,relation+way
-Naamsestraat,,,,relation+way
-Naamsevest,,,,way
 Nachtegalenstraat,,,,way
 Natuurvriendenlaan,,,,way
 Negenbunderspad,,,,way
 Neringenweg,,,,relation
-Nerviërsstraat,,,,way
 "Nieuwe Bornestraat",,,,way
 "Nieuwe Kerkhofdreef",,,,way
 "Nieuwe Mechelsesteenweg",,,,way
@@ -612,7 +627,6 @@ Ormendaalpad,,,,way
 Ortolanenstraat,,,,way
 Oud-Heverleestraat,,,,way
 "Oude Aarschotseweg",,,,way
-"Oude Diestsesteenweg",,,,way
 "Oude Markt",,,,way
 "Oude Nijvelseweg",,,,way
 "Oude Rondelaan",,,,way
@@ -629,8 +643,6 @@ Panoramalaan,,,,way
 Parijsstraat,,,,way
 Parkbosstraat,,,,way
 Parkdallaan,,,,way
-Parkpoort,,,,way
-Parkstraat,,,,way
 Parkweg,,,,way
 Parkwegbrug,,,,way
 Parnassusbergdreef,,,,way
@@ -663,7 +675,6 @@ Peterseliegang,,,,way
 Petrusberg,,,,way
 Philipslaan,,,,way
 Philipsplein,,,,way
-Philipssite,,,,relation+way
 "Pierre Joseph Van Benedenstraat",,,,way
 "Pierre Joseph Verhaghenstraat",,,,way
 "Pieter Nollekensstraat",,,,way
@@ -681,13 +692,9 @@ Pompstraat,,,,way
 Poortveldstraat,,,,way
 Populierenlaan,,,,way
 Praegeweg,,,,way
-Predikherenberg,,,,way
-Predikherenstraat,,,,way
-Predikherinnenstraat,,,,way
 Prelatenstraat,,,,way
 Prieeltjesweg,,,,way
 "Priester Daensstraat",,,,way
-"Prins De Lignestraat",,,,way
 "Prins Regentplein",,,,way
 Prins-Regentlaan,,,,way
 Prins-Regentplein,,,,way
@@ -736,7 +743,6 @@ Rijschoolstraat,,,,way
 Ristweg,,,,way
 Rixvonderendijk,,,,way
 Roeselbergdal,,,,way
-"Romeinse straat",,,,way
 "Rond arena",,,,way
 Rondestraat,,,,way
 Rooistraat,,,,way
@@ -757,7 +763,6 @@ Rustoordlaan,,,,way
 Ruteriuspad,,,,way
 Saffranenbergstraat,,,,way
 Sapellenbos,,,,way
-Savoyestraat,,,,way
 Schakellaan,,,,way
 Schapenstraat,,,,way
 Schepenenstraat,,,,way
@@ -847,15 +852,12 @@ Technologielaan,,,,way
 Terbankstraat,,,,way
 Termunckdreef,,,,way
 Termunckstraat,,,,way
-Tervuursepoort,,,,way
-Tervuursesteenweg,,,,relation+way
 Tervuursestraat,,,,way
 Tervuursevest,,,,relation+way
 "Tessenstraat - Fonteinstraat",,,,way
 Theresianengang,,,,relation
 "Thomas Woodrow Wilsonlaan",,,,way
 Tiensepoort,,,,way
-Tiensesteenweg,,,,relation+way
 Tiensestraat,,,,way
 Tiensevest,,,,relation+way
 Tiggelpad,,,,way
@@ -864,7 +866,6 @@ Tivolistraat,,,,way
 Toekomstpad,,,,way
 Toekomststraat,,,,way
 Tolhuizenstraat,,,,way
-Tomveldstraat,,,,way
 Torenstraat,,,,way
 Toverberg,,,,way
 Tramweg,,,,way
@@ -935,7 +936,6 @@ Vloedgracht,,,,way
 Voervalleilaan,,,,way
 Voerviaduct,,,,way
 Volhardingslaan,,,,relation
-Volmolenlaan,,,,way
 Voordelaan,,,,way
 Voorzorgstraat,,,,way
 Vosseweg,,,,way
